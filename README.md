@@ -1,5 +1,7 @@
 Fundamentos Django 2.0
 
+![Ciclo Request-Response Django](http://i.stack.imgur.com/rLfSC.jpg)
+
 Para git CMD:
 
 ```bash
