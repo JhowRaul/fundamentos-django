@@ -43,10 +43,6 @@ cd ..
 
 2) Instalar Django na venv:
 ```bash
-dactivate
-```
-
-```bash
 pip install django
 ```
 
