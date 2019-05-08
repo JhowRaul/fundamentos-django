@@ -73,6 +73,7 @@ python manage.py createsuperuser
 ```
 
 Após realizar as modificações no projeto (criação de class em models.py e registrar a model em admin.py)
+
 7) Criação e modificações nas tabelas (SQL):
 ```bash
 python manage.py makemigrations
@@ -80,5 +81,7 @@ python manage.py makemigrations
 # Caso ocorra algum erro use também:
 python manage.py migrate--run-syncdb
 ```
+
+
 
 Código desenvolvido durante o curso: https://www.youtube.com/playlist?list=PLHWfNMxB2F4HdKbo8zdgXyxVDOxH429Ko
